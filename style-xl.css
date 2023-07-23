@@ -1,0 +1,188 @@
+@media (min-width: 1200px) {
+    .text-30px {
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 35px;
+    }
+    .text-80px {
+        font-weight: 500;
+        font-size: 80px;
+        line-height: 85px;
+    }
+    .block_desert {
+        font-size: 18px;
+        padding-bottom: 7px;
+        border-radius: 6px;
+        margin-bottom: 40px;
+    }
+    .desert-img {
+        border-radius: 6px;
+        border-bottom-left-radius: 6px;
+        border-bottom-right-radius: 0;
+        border-top-right-radius: 0;
+    }
+    .background-desert {
+        height: 100%;
+    }
+    .desert-content {
+        padding: 0 70px;
+    }
+    .desert-arrow {
+        position: absolute;
+        bottom: 20px;
+        right: 30px;
+
+    }
+    .border-desert {
+        border-radius: 6px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+    }
+
+    .text-40px {
+        font-size: 55px;
+        line-height: 65px;
+    }
+    .border-block {
+        border-radius: 6px;
+        border-top-left-radius: 0px;
+        border-bottom-left-radius: 0px;
+    }
+    .images {
+        width: auto;
+    }
+    .fa-search {
+        font-size: 34px;
+    }
+    .text-75px {
+        padding-top: 200px;
+        font-size: 75px;
+        font-weight: 700;
+        line-height: 80px;
+    }
+    .text-24px {
+        font-size: 24px;
+        font-weight: 600;
+    }
+   form .form-control {
+       padding: 25px;
+   }
+    .foto-desert {
+        border-radius: 6px;
+        width: 408px;
+        height: 306px;
+    }
+   form .btn {
+       background-color: orangered;
+       color: white;
+   }
+   form {
+       width: 900px;
+       padding-left: 400px;
+   }
+   form .btn_orange {
+       font-size: 24px;
+   }
+   form .btn_orange:hover {
+       background-color: darkorange;
+       color: white;
+   }
+    .border-btn {
+        border: 1px solid black;
+        width: 150px;
+        text-align: center;
+        font-weight: 700;
+        padding: 4px;
+        margin-left: 0px
+    }
+    form .btn_orange {
+        font-size: 24px;
+        padding: 20px 40px 20px 40px ;
+    }
+    .marengo_small form {
+        width: 900px;
+        padding-left: 200px;
+        padding-right: 150px;
+    }
+    .block4 .images_px {
+        border-radius: 6px;
+        width: 416px;
+        height: 310px;
+    }
+    .text-25px {
+        font-size: 25px;
+        font-weight: 700;
+    }
+    .block4 .text-30px {
+        font-size: 30px;
+        font-weight: 700;
+    }
+    .carousel-caption {
+        padding-bottom: 200px;
+    }
+    .block6 img {
+        widows: 300px;
+        height: 240px;
+    }
+    .blog .text-70px {
+        font-size: 70px;
+        line-height: 70px;
+    }
+    .blog .text-20px {
+    font-size: 20px;
+    }
+    .blog .text-50px {
+        font-size: 50px;
+    }
+    .blog .text-25px {
+        font-weight: 500;
+    }
+    .margin-xl {
+        margin-left: 10px;
+    }
+    .blog .text-18px-500 {
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 25px;
+    }
+    .block8 .text-16px-black {
+        font-size: 16px;
+    }
+    .block7 .text-35px {
+        font-size: 35px;
+    }
+    .block7 .btn {
+        background-color: #ff642f;
+        color: white;
+        padding: 8px 30px;
+    }
+    .block7 .btn-1 {
+        background-color: white;
+        border: 1px solid black;
+        color: black;
+    }
+    .login .text-35px {
+        margin-right: 433px;
+    }
+    .login .text-16px {
+        font-size: 16px;
+    }
+    .btn-grey {
+        background-color: #f3f3f3;
+        color: #4b669f;
+        padding: 8px 35px;
+    }
+    .btn-2px {
+        border: 2px solid black;
+        color: black;
+        padding: 8px 45px;
+    }
+    .login .text-16px-black {
+        font-size: 14px;
+    }
+    .btn-orange {
+        background-color: #ff642f;
+        color: white;
+        padding: 8px 45px;
+    }
+}

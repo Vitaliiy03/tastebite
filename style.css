@@ -1,0 +1,528 @@
+.carousel-caption {
+    padding-bottom: 25px;
+}
+.header-none .fa {
+    font-size: 24px;
+}
+.header-none button {
+    border: 1px solid black;
+    padding: 5px 35px;
+}
+.header-none button:hover {
+    border: 1px solid grey;
+}
+.btn-2px {
+    border: 2px solid black;
+    color: black;
+}
+.btn-green {
+    background-color: #60dc8c;
+    color: white;
+    text-transform: uppercase;
+    padding: 10px;
+}
+.btn-red {
+    background-color: #ff3030;
+    color: white;
+    text-transform: uppercase;
+    padding: 10px;
+}
+.bg-grey {
+    background-color: lightgrey;
+}
+.bg-light-grey {
+    background-color: #f9f9f9;
+}
+.border-radius-6px {
+    border-radius: 6px;
+}
+.border-1px-grey {
+    border: 1px solid #e8e8e8;
+    padding: 30px;
+    border-radius: 3px;
+}
+.btn-orange {
+    background-color: #ff642f;
+    color: white;
+}
+.btn-grey {
+    background-color: #f3f3f3;
+    color: #4b669f;
+}
+.text-orange {
+    color: orange;
+}
+.text-80px {
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 30px;
+}
+.text-16px-orange {
+    font-size: 16px;
+    color: #ff642f;
+}
+.text-25px {
+    font-size: 18px;
+    font-weight: 700;
+}
+.text-70px {
+    font-size: 30px;
+    font-weight: 700;
+}
+.text-16px-black {
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+}
+.text-16px-black-700 {
+    color: black;
+    font-size: 16px;
+    font-weight: 700;
+}
+.text-16px-black-500 {
+    color: black;
+    font-size: 16px;
+    font-weight: 400;
+}
+.text-14px-grey {
+    font-size: 14px;
+    color: grey;
+}
+.text-grey {
+    color: grey;
+}
+.text-20px-700 {
+    font-size: 20px;
+    font-weight: 700;
+}
+.text-35px-w600 {
+    font-size: 35px;
+    font-weight: 600;
+}
+.text-24px-700 {
+    font-size: 24px;
+    font-weight: 700;
+}
+.text-18px {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+}
+.text-18px-500 {
+    font-size: 11px;
+    font-weight: 500;
+    line-height: 16px;
+}
+.text-14px {
+    font-size: 14px;
+    font-weight: 500;
+}
+.image_logo {
+    width: 120px;
+    height: 60px;
+}
+.background-grey {
+    background-color: #f9f9f9;
+}
+.text-35px {
+    font-size: 35px;
+    font-weight: 700;
+}
+.text-grey {
+    color: darkgrey;
+}
+.text-14px-grey {
+    font-size: 14px;
+    color: darkgrey;
+}
+.border-line {
+    border: 1px solid lightgrey;
+}
+.border-line-black {
+    border: 1px solid black;
+}
+.border-line-orange {
+    border: 5px solid #ff642f;
+}
+.text-16px-grey {
+    font-size: 16px;
+    line-height: 25px;
+    font-weight: 600;
+    color: dimgrey;
+}
+.text-20px-black {
+    font-size: 20px;
+    line-height: 25px;
+    color: black;
+}
+.text-16px {
+    font-size: 16px;
+    color: darkgrey;
+    line-height: 25px;
+}
+.text-20px-grey {
+    font-size: 20px;
+    color: darkgrey;
+    line-height: 25px;
+}
+.text-20px {
+    font-size: 20px;
+    font-weight: bold;
+}
+.bnt-px {
+    border: 1px solid black;
+    padding: 10px 40px 10px 40px;
+    background-color: white;
+}
+.bnt-px:hover {
+    border: 1px solid black;
+    background-color: lightgrey;
+}
+.text-30px {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+}
+.text-24px {
+    font-size: 20px;
+    font-weight: 600;
+}
+.text-40px {
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 45px;
+}
+.text-50px {
+    font-size: 50px;
+    font-weight: 700;
+}
+.text-75px {
+    padding-top: 60px;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+}
+.menu-button {
+    font-size: 18px;
+    font-weight: 600;
+}
+.images {
+    width: 100px;
+}
+.dropdown-toggle {
+    color: black;
+}
+.dropdown-toggle:hover {
+    border: 0px;
+}
+.border-desert {
+    border-radius: 6px;
+}
+.background-desert {
+    background-color: #e3f1fe;
+}
+.desert-content {
+    padding: 30px 15px;
+}
+.desert-img {
+    border-radius: 6px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.border-block {
+    border-radius: 6px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+.arrow {
+    width: 30px;
+}
+.block_desert {
+    border-radius: 6px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+    padding-top: 30px;
+    font-size: 18px;
+    padding-bottom: 7px;
+}
+
+.border-arrow {
+    border: 50px;
+    background-color: white;
+    border-radius: 50%;
+}
+.star .fa-star {
+    color: orange;
+}
+.foto-desert {
+    border-radius: 6px;
+}
+.fa-search {
+    font-size: 25px;
+}
+.background-marengo {
+    background-color: #fed7c8;
+}
+.form-email {
+    width: 1000px;
+}
+.form-email .form-control {
+    padding: 25px;
+    color: darkgrey;
+    border: 0;
+    margin-left: 350px;
+    font-size: 20px;
+}
+.form-email button {
+    width: 150px;
+    font-size: 25px;
+    background-color: darkorange;
+    border: 0;
+}
+.form-email button:hover {
+    background-color: orange;
+}
+.text-dangers {
+    color: orangered;
+}
+.marengo .margin-bootom {
+    margin-bottom: 120px;
+}
+form .btn_orange {
+    font-size: 24px;
+    color: white;
+    background-color: orangered;
+}
+form .btn_orange:hover {
+    background-color: darkorange;
+    color: white;
+}
+.form_email .form-control {
+    padding: 20px;
+}
+.form_email button {
+    padding: 15px;
+}
+.background-marengo {
+    border-radius: 6px;
+}
+.images_r {
+    border-radius: 6px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.border-px {
+    border: 1px solid lightgrey;
+    border-top: 0;
+    border-radius: 6px;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+}
+.border-pxl {
+    border: 1px solid lightgrey;
+    border-radius: 6px;
+}
+.border-btn {
+    border: 1px solid black;
+    width: 150px;
+    text-align: center;
+    font-weight: 700;
+    padding: 4px;
+    margin-left: 150px;
+}
+.border-img {
+    border-radius: 6px;
+}
+.social_network .fa {
+    color: darkgrey;
+    font-size: 25px;
+}
+.social_network_sm .fa {
+    color: darkgrey;
+    font-size: 20px;
+}
+.decoration-none a {
+    text-decoration: none;
+    color: darkgrey;
+}
+.accordion-header button {
+    background-color: #f9f9f9;
+    border-bottom: 1px solid darkgrey;
+}
+.accordion-button:not(.collapsed) {
+    color: black;
+    background-color: #f9f9f9;
+}
+.accordion-collapse {
+    background-color: #f9f9f9;
+}
+.block1 .images_px {
+    border-radius: 6px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0,;
+}
+.marengo_small .margin-bootom {
+    margin-bottom: 0px;
+}
+.marengo_small .form_email .btn{
+    padding: 30px;
+}
+.block2 .text-20px {
+    font-weight: 600;
+}
+.block2 .border-btn {
+    border: 1px solid black;
+    width: 150px;
+    text-align: center;
+    font-weight: 700;
+    padding: 6px 25px 6px 25px;
+    border-radius: 4px;
+}
+.border-pictures {
+    border-radius: 6px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.block3 .border-btn {
+    border: 1px solid black;
+    width: 150px;
+    text-align: center;
+    font-weight: 700;
+    padding: 4px;
+}
+.block3 .text-35px {
+    line-height: 40px;
+}
+.block4 .images_px {
+    border-radius: 6px;
+}
+.block5 border-px {
+    border-bottom-left-radius: 6px;
+}
+.block5 .fa-calendar-o {
+    font-size: 16px;
+    color: darkgrey;
+}
+.block5 .fa-comment-oborder-btn {
+    font-size: 16px;
+    color: darkgrey;
+}
+.block6 .images_r {
+    border-radius: 6px;
+}
+.blog .text-70px {
+    line-height: 30px;
+}
+.blog .images_r {
+    border-radius: 10px;
+}
+.blog .text-20px {
+    font-weight: 400;
+}
+.blog .text-20px {
+    font-size: 14px;
+}
+.blog .text-50px {
+    font-size: 30px;
+}
+.background-grey-img .fa {
+    color: balck;
+    font-size: 20px;
+}
+.block7 .btn {
+    background-color: #ff642f;
+    color: white;
+    padding: 8px 15px;
+}
+.fa-circle-thin {
+   font-size: 30px;
+}
+.block8 .text-20px{
+    font-weight: 500;
+}
+.fa-check-circle-o {
+    font-size: 30px;
+}
+ .circle {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #ff642f;
+    color: #fff;
+    text-align: center;
+    line-height: 30px;
+     font-size: 16px;
+}
+.block8 .text-16px-black {
+    font-size: 14px;
+}
+.block9 .form-control {
+    width: 381px;
+    height: 50px;
+    margin-left: 60px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.block9 .btn_orange {
+    font-size: 24px;
+    color: white;
+    background-color: #ff642f;
+}
+.nice-input {
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    text-align: left;
+}
+.nice-input .icon {
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 5px;
+}
+.nice-input input {
+    width: calc(100% - 40px);
+    border: none;
+    vertical-align: middle;
+}
+.nice-input input:focus {
+    outline: 0;
+}
+.block7 .btn-1 {
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+}
+.block7 .text-35px {
+        font-size: 20px;
+}
+.block10 .text-14px-grey {
+    color: darkgrey;
+}
+.bnt-border-1 {
+    border: 1px solid black;
+    padding: 8px 40px;
+    font-weight: 600;
+}
+.login .text-35px {
+    margin-right: 75px;
+}
+.login button {
+    margin-top: -50px;
+}
+.login button:hover {
+    background-color: darkcyan;
+    color: white;
+}
+.login .nice-input {
+    padding: 8px;
+}
+.login .text-16px {
+    color: #4b669f;
+}
+.login .text-16px {
+    font-size: 14px;
+}
+.login .text-16px-black {
+    font-size: 14px;
+}
